@@ -4,6 +4,6 @@
 
 <br>
 
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=massangoDa&theme=zenburn)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=massangoDa&layout=compact&show_icons=true&theme=react)
 
 </div>
